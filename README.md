@@ -1,4 +1,4 @@
-#Local repo
+# Local repo
 This is my first repository.
-</br>
-Author- Md. Emon Hossain
+<br>
+Author- <i> Md. Emon Hossain </i>
